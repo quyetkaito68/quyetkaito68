@@ -14,6 +14,20 @@
 * ⛄️ Gender: Male [he/him]
 * 🌏 Location: Vietnamese
 * 😄 Fun fact: Waiting 4 love 🤦‍♂️
+
+<h1 align="center"> About me</h1>
+My name is **Quyết**, you can call me Kaito instead. I am a highly skilled software engineer, DevOps engineer, and full-stack web developer with expertise in a variety of programming languages including C#, JavaScript, .NET, Java, and C/C++. With a primary focus on C# .NET and JavaScript.
+
+My proficiency extends beyond coding. I have a strong background in DevOps, excelling in Jenkins CI/CD and Docker, K8S.
+
+If you would like to contact me, please feel free to reach out to me through Discord, WhatsApp, or ProtonMail. You can find my contact information below.
+
+Thank you for taking the time to read my bio.
+
+<h1 align="center"> Contact for work</h1>
+
+* Email: quyetkaito@gmail.com
+* Facebook: https://facebook.com/quyetkaito68
 <!--
 **quyetkaito68/quyetkaito68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
