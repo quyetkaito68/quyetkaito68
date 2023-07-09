@@ -8,12 +8,12 @@
   </a>
 </p>
 
-🖥️ Coding: , C# .NET, Java, JavaScript...
-✨ FavoriteLanguage: JavaScript, C#
-📝 Language: VIE
-⛄️ Gender: Male [he/him]
-🌏 Location: Vietnamese
-😄 Fun fact: Waiting 4 love 🤦‍♂️
+* 🖥️ Coding: , C# .NET, Java, JavaScript...
+* ✨ FavoriteLanguage: JavaScript, C#
+* 📝 Language: VIE
+* ⛄️ Gender: Male [he/him]
+* 🌏 Location: Vietnamese
+* 😄 Fun fact: Waiting 4 love 🤦‍♂️
 <!--
 **quyetkaito68/quyetkaito68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
