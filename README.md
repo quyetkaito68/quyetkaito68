@@ -20,7 +20,7 @@ My name is Quyết, you can call me Kaito instead. I am a highly skilled softwar
 
 My proficiency extends beyond coding. I have a strong background in DevOps, excelling in Jenkins CI/CD and Docker, K8S.
 
-If you would like to contact me, please feel free to reach out to me through Discord, WhatsApp, or ProtonMail. You can find my contact information below.
+If you would like to contact me, please feel free to reach out to me through Email, Facebook. You can find my contact information below.
 
 Thank you for taking the time to read my bio.
 
