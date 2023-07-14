@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/quyetkaito68">
-    <img src="https://skillicons.dev/icons?i=js,vuejs,cs,dotnet,java,docker,jenkins" />
+    <img src="https://skillicons.dev/icons?i=js,vuejs,cs,dotnet,java,py,docker,jenkins" />
   </a>
 </p>
 
