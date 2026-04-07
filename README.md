@@ -13,7 +13,6 @@
 * 📝 Language: VIE
 * ⛄️ Gender: Male [he/him]
 * 🌏 Location: Vietnamese
-* 😄 Fun fact: Waiting 4 love 🤦‍♂️
 
 <h1 align="center"> About me</h1>
 My name is Quyết, you can call me Kaito instead. I am a highly skilled software engineer, DevOps engineer, and full-stack web developer with expertise in a variety of programming languages including C#, JavaScript, .NET, Java, and C/C++. With a primary focus on C# .NET and JavaScript.
